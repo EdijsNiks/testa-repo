@@ -1,2 +1,3 @@
 Saturs
-	Otrā diena
+Otrā diena
+Relīzes uzpucēšana
